@@ -12,3 +12,6 @@ npm run dev
 Autor: Paweł Drapiewski
 email: drapek39@gmail.com
 
+
+## Licensing
+This project uses template Vue Material Kit created by Copyright 2019 Creative Tim (https://www.creative-tim.com)
