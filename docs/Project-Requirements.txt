@@ -1,0 +1,14 @@
+The required functionalites for this site are:
+
+WD_1 User Logining
+WD_2 User Change Password
+WD_3 Create Users as Administrator and send invitation link or generate one time password
+WD_4 Show Pages like "Wedding Plan", "Place", "About US"
+WD_5 Project Building Scheme 
+     must include:
+          - building shape / walls
+          - tables 
+          - seats (can be reserved)
+          - addtional objects like Bar, Scene, Dance floor
+WD_6 Admin can change User reservation (message must be sent)
+
